@@ -1,3 +1,3 @@
-# End to End User and content based Movie-Recommendation using MLLib and PySpark on Databricks. 
+#  User and content-based Movie-Recommendation model using MLLib and PySpark on Databricks. 
 
-# Working on Feature Enhancements !
+# Working on Feature Enhancements!
